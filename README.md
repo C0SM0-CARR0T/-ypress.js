@@ -1,2 +1,2 @@
-# -ypress.js
+# cypress.js
 Примеры автотестов на cypress
